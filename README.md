@@ -84,7 +84,7 @@ blood-donation-management-system/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/blood-donation-management-system.git
+   git clone https://github.com/vijayk176/blood-donation-management-system.git
    cd blood-donation-management-system
    ```
 
@@ -124,12 +124,6 @@ Each donor maintains a dynamic linked list of past donations, allowing efficient
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of your Login screen, Dashboard, and Blood Matching panel here._
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -150,17 +144,10 @@ This project was developed as a **Data Structures & Algorithms (DSA)** course pr
 - Linked Lists for dynamic data management
 - DAO design pattern for database abstraction
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙋‍♂️ Author
 
-**Your Name**
+**Vijay Kumar**
 - GitHub: [@your-username](https://github.com/vijayk176)
 - LinkedIn: [your-linkedin](www.linkedin.com/in/vijay-kumar-682825315)
 
